@@ -7,5 +7,6 @@ public class HelloWorld {
 		System.out.println("Age: 16");
 		System.out.println("AP Java");
 		System.out.println("Panda");
+		System.out.println("I like spaghetti");
 	}
 }
